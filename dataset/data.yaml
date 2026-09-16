@@ -1,0 +1,63 @@
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 57
+names:
+  0: Ash Gourd
+  1: Asparagus
+  2: Beetroot
+  3: Bitter Gourd
+  4: Bok Choy
+  5: Bottle Gourd
+  6: Brinjal
+  7: Broad Beans
+  8: Broccoli
+  9: Brussels Sprouts
+  10: Cabbage
+  11: Capsicum
+  12: Carrot
+  13: Cassava
+  14: Cauliflower
+  15: Celery
+  16: Chickpeas
+  17: Cluster Beans
+  18: Coriander
+  19: Corn
+  20: Cucumber
+  21: Fenugreek Leaves
+  22: French Beans
+  23: Garlic
+  24: Green Beans
+  25: Green Chilli
+  26: Ivy Gourd
+  27: Kale
+  28: Leek
+  29: Lettuce
+  30: Mint
+  31: Moringa
+  32: Mushroom
+  33: Mustard Greens
+  34: Okra
+  35: Onion
+  36: Parsnip
+  37: Peas
+  38: Potato
+  39: Pumpkin
+  40: Radish
+  41: Raw Banana
+  42: Ridge Gourd
+  43: Rutabaga
+  44: Snake Gourd
+  45: Soybean
+  46: Spinach
+  47: Spring Onion
+  48: Squash
+  49: Sweet Potato
+  50: Swiss Chard
+  51: Taro
+  52: Tindora
+  53: Tomato
+  54: Turnip
+  55: Yam
+  56: Zucchini
